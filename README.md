@@ -1,7 +1,7 @@
 # ipapers
 问卷调查/答题系统
 后台：Node.js Express Mongoose
-前端：Angular Redux fetch NG-ZERRO
+前端：Angular Redux fetch NG-ZORRO
 数据库：MongoDB
 
 # 系统数据初始化
